@@ -1,0 +1,16 @@
+.exercise__top{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.exercise__top h2{
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+}
+
+.exercise__top p{
+color: var(--heading-color);
+font-size: 1rem;
+line-height: 28px;
+}
+
